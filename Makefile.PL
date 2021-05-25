@@ -17,8 +17,7 @@ readme_from 'HelloWorld.pm';
 recursive_author_tests('xt');
 requires 'English' => 0;
 requires 'perl' => '5.6.0';
-resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
-	'?Name=Tickit-Widget-HelloWorld';
+resources 'bugtracker' => 'https://github.com/tupinek/Tickit-Widget-HelloWorld/issues';
 resources 'homepage' => 'https://github.com/tupinek/Tickit-Widget-HelloWorld';
 resources 'repository' => 'git://github.com/tupinek/Tickit-Widget-HelloWorld';
 test_requires 'Test::More' => 0;
