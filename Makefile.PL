@@ -22,6 +22,7 @@ resources 'homepage' => 'https://github.com/tupinek/Tickit-Widget-HelloWorld';
 resources 'repository' => 'git://github.com/tupinek/Tickit-Widget-HelloWorld';
 test_requires 'Test::More' => 0;
 test_requires 'Test::NoWarnings' => 0;
+test_requires 'Tickit::Test' => 0;
 tests_recursive;
 version '0.01';
 
