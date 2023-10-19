@@ -26,8 +26,8 @@ requires:
   English: 0
   perl: 5.6.0
 resources:
-  bugtracker: https://github.com/tupinek/Tickit-Widget-HelloWorld/issues
-  homepage: https://github.com/tupinek/Tickit-Widget-HelloWorld
+  bugtracker: https://github.com/michal-josef-spacek/Tickit-Widget-HelloWorld/issues
+  homepage: https://github.com/michal-josef-spacek/Tickit-Widget-HelloWorld
   license: http://opensource.org/licenses/bsd-license.php
-  repository: git://github.com/tupinek/Tickit-Widget-HelloWorld
+  repository: git://github.com/michal-josef-spacek/Tickit-Widget-HelloWorld
 version: '0.01'
