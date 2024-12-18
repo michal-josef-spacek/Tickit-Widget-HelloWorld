@@ -3,6 +3,7 @@ HelloWorld.pm
 HelloWorld/Centered.pm
 HelloWorld/Clicker.pm
 HelloWorld/Colour.pm
+HelloWorld/Common.pm
 inc/Module/Install.pm
 inc/Module/Install/AuthorRequires.pm
 inc/Module/Install/AuthorTests.pm
@@ -26,6 +27,8 @@ t/Tickit-Widget-HelloWorld-Clicker/01-use.t
 t/Tickit-Widget-HelloWorld-Clicker/02-version.t
 t/Tickit-Widget-HelloWorld-Colour/01-use.t
 t/Tickit-Widget-HelloWorld-Colour/02-version.t
+t/Tickit-Widget-HelloWorld-Common/01-use.t
+t/Tickit-Widget-HelloWorld-Common/02-version.t
 t/Tickit-Widget-HelloWorld/01-use.t
 t/Tickit-Widget-HelloWorld/02-version.t
 t/Tickit-Widget-HelloWorld/03-render.t
@@ -35,5 +38,7 @@ xt/Tickit-Widget-HelloWorld-Clicker/01-pod_coverage.t
 xt/Tickit-Widget-HelloWorld-Clicker/02-pod.t
 xt/Tickit-Widget-HelloWorld-Colour/01-pod_coverage.t
 xt/Tickit-Widget-HelloWorld-Colour/02-pod.t
+xt/Tickit-Widget-HelloWorld-Common/01-pod_coverage.t
+xt/Tickit-Widget-HelloWorld-Common/02-pod.t
 xt/Tickit-Widget-HelloWorld/01-pod_coverage.t
 xt/Tickit-Widget-HelloWorld/02-pod.t
